@@ -70,6 +70,7 @@
         }
 
         .hero {
+            background-image: url('img/22023.jpeg');
             text-align: center;
             padding: 60px 20px;
             background: white;
